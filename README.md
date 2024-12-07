@@ -1,4 +1,6 @@
 created a dummy web application for this whole scenario
+
+
 Postgres Database and Login:
  2.
  ● Create a PostgresSQL database to store user information such as name
